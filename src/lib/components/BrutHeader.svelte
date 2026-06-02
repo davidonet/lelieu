@@ -9,7 +9,8 @@
 		{ href: '/atelier', label: 'Atelier' },
 		{ href: '/fablab', label: 'Fablab' },
 		{ href: '/studio', label: 'Studio' },
-		{ href: '/massage', label: 'Massage' }
+		{ href: '/massage', label: 'Massage' },
+		{ href: '/kitchen', label: 'Cuisine' }
 	];
 
 	let open = $state(false);

@@ -50,44 +50,20 @@
 			</div>
 
 			<BrutCard color="petrol" class="md:translate-y-6">
-				<h2 class="font-display text-2xl uppercase mb-3">Cinq espaces, un même toit</h2>
+				<h2 class="font-display text-2xl uppercase mb-3">Six espaces, un même toit</h2>
 				<ul class="font-mono text-sm space-y-2">
 					<li>01 — Une micro-galerie</li>
 					<li>02 — Un atelier d'art</li>
 					<li>03 — Un fablab</li>
 					<li>04 — Un futur studio son</li>
 					<li>05 — Un parloir massage</li>
+					<li>06 — Une cuisine partagée</li>
 				</ul>
 				<div class="mt-6 flex flex-wrap gap-3">
 					<BrutButton href="#espaces" variant="accent">Voir les espaces</BrutButton>
 					<BrutButton href="#actualites" variant="ghost">Actualités</BrutButton>
 				</div>
 			</BrutCard>
-		</div>
-	</div>
-</section>
-
-<!-- SPACES GRID -->
-<section id="espaces" class="bg-brut-paper">
-	<div class="mx-auto max-w-6xl px-4 sm:px-6 py-16 sm:py-20">
-		<div class="flex items-end justify-between flex-wrap gap-4 mb-10">
-			<h2 class="font-display text-4xl sm:text-5xl uppercase">Les espaces</h2>
-			<p class="font-mono text-xs uppercase tracking-widest text-brut-petrol max-w-[40ch]">
-				Quatre pratiques côte à côte — chacune avec sa couleur, ses outils, son rythme.
-			</p>
-		</div>
-
-		<div class="grid gap-6 sm:gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-			{#each spaces as space, i (space.slug)}
-				<SpacePanel
-					href={`/${space.slug}`}
-					title={space.name}
-					tagline={space.tagline}
-					color={space.color}
-					comingSoon={space.comingSoon}
-					number={`0${i + 1}`}
-				/>
-			{/each}
 		</div>
 	</div>
 </section>
@@ -107,6 +83,33 @@
 			</p>
 		</div>
 		<NewsCarousel items={news.items} />
+	</div>
+</section>
+
+<!-- SPACES GRID -->
+<section id="espaces" class="bg-brut-paper border-t-[3px] border-brut-ink">
+	<div class="mx-auto max-w-6xl px-4 sm:px-6 py-16 sm:py-20">
+		<div class="flex items-end justify-between flex-wrap gap-4 mb-10">
+			<h2 class="font-display text-4xl sm:text-5xl uppercase">Les espaces</h2>
+			<p class="font-mono text-xs uppercase tracking-widest text-brut-petrol max-w-[40ch]">
+				Six pratiques côte à côte — chacune avec sa couleur, ses outils, son rythme.
+			</p>
+		</div>
+
+		<div class="grid gap-6 sm:gap-8 sm:grid-cols-2 lg:grid-cols-6">
+			{#each spaces as space, i (space.slug)}
+				<SpacePanel
+					href={`/${space.slug}`}
+					title={space.name}
+					tagline={space.tagline}
+					description={space.description}
+					color={space.color}
+					comingSoon={space.comingSoon}
+					number={`0${i + 1}`}
+					class="lg:col-span-2"
+				/>
+			{/each}
+		</div>
 	</div>
 </section>
 

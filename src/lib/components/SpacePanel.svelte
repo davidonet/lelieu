@@ -5,6 +5,7 @@
 		href: string;
 		title: string;
 		tagline: string;
+		description?: string;
 		color: BrutColor;
 		number: string;
 		comingSoon?: boolean;
@@ -15,6 +16,7 @@
 		href,
 		title,
 		tagline,
+		description,
 		color,
 		number,
 		comingSoon = false,
@@ -25,7 +27,7 @@
 <a
 	{href}
 	class={cn(
-		'group relative block brut-border brut-shadow brut-press p-6 sm:p-8 min-h-[260px] sm:min-h-[320px] overflow-hidden',
+		'group relative block brut-border brut-shadow brut-press p-6 sm:p-8 min-h-[300px] sm:min-h-[360px] overflow-hidden',
 		colorBg[color],
 		colorText[color],
 		klass
@@ -39,13 +41,18 @@
 			{/if}
 		</div>
 
-		<div>
-			<h3 class="font-display text-3xl sm:text-4xl leading-[0.95] mb-3">
+		<div class="flex flex-col gap-3">
+			<h3 class="font-display text-2xl sm:text-3xl leading-[0.95] uppercase">
 				{title}
 			</h3>
-			<p class="font-mono text-sm sm:text-base max-w-[28ch]">
+			<p class="font-mono text-sm max-w-[28ch]">
 				{tagline}
 			</p>
+			{#if description}
+				<p class="text-sm sm:text-[15px] leading-relaxed max-w-[42ch]">
+					{description}
+				</p>
+			{/if}
 		</div>
 
 		<div class="flex items-center justify-between">
