@@ -3,11 +3,10 @@ title: L'atelier d'art
 slug: atelier
 color: orange
 eyebrow: Espace 02 — Faire
-intro: Un atelier de pratiques plastiques et artisanales — dessin, peinture, terre, papier, textile. Une grande table, de la lumière, du temps. Un espace pour faire avec ses mains, seul·e ou à plusieurs.
+intro: Un atelier de pratiques plastiques — dessin, peinture, papier. Une grande table, de la lumière, du temps. Un espace pour faire avec ses mains, seul·e ou à plusieurs.
 features:
-  - Grande table de travail (6 postes)
+  - Grande table de travail (12 postes)
   - Coin peinture & dessin avec lavabo
-  - Tour de potier·e et four céramique partagé
   - Réserve de matériaux récupérés (papier, textile, bois)
   - Coin lecture / bibliothèque de l'atelier
 ---

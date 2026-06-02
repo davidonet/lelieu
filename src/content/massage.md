@@ -1,5 +1,5 @@
 ---
-title: Le parloir massage
+title: L'espace massage
 slug: massage
 color: teal
 eyebrow: Espace 04 — Toucher
@@ -15,15 +15,16 @@ features:
   - Sur rendez-vous — petits créneaux d'une heure ou deux
 ---
 
-## Un parloir, pas un salon
+## Séances adaptées
 
-Le mot **parloir** est ancien, presque oublié — il désigne une pièce où l'on se parle. Ici, on parle aussi, mais surtout : on se laisse toucher. Le massage commence par une rencontre, deux ou trois mots, un silence — et continue avec les mains.
+Lisa a à cœur que le toucher soit accessible au plus grand nombre.
+Toutes les séances peuvent être adaptées aux personnes âgées, aux personnes en situation de handicap et aux personnes qui traversent des passages délicats, comme la maladie ou la fin de vie.
 
-Le parloir massage de LE LIEU est un espace volontairement petit. Une seule personne reçoit à la fois. La pièce est isolée du reste du lieu, traitée pour atténuer les bruits, chauffée à part. Vous arrivez, vous vous posez, on prend le temps qu'il faut.
+
 
 ## La pratique d'Espace Agapé
 
-Le parloir est tenu par [Espace Agapé](https://www.espace-agape.com). La pratique réunit plusieurs traditions — **biodynamique, thaï, lomi-lomi, californien, acupression** — adaptées à la personne et au moment. Sur table, ou au sol. Avec ou sans huile. Énergisant ou apaisant. Le massage cherche un *« état de lâcher-prise profond et régénérant »*.
+L'espace massage est tenu par [Espace Agapé](https://www.espace-agape.com). La pratique réunit plusieurs traditions — **biodynamique, thaï, lomi-lomi, californien, acupression** — adaptées à la personne et au moment. Sur table, ou au sol. Avec ou sans huile. Énergisant ou apaisant. Le massage cherche un *« état de lâcher-prise profond et régénérant »*.
 
 Sont aussi proposés :
 
@@ -38,4 +39,4 @@ Espace Agapé tient à ce principe et nous le partageons. Les tarifs sont discut
 
 ## Prendre rendez-vous
 
-Les rendez-vous se prennent directement auprès d'Espace Agapé. Le parloir n'est pas en accès libre — c'est un lieu qui se réserve.
+Les rendez-vous se prennent directement auprès d'Espace Agapé. Le salon n'est pas en accès libre — c'est un lieu qui se réserve.

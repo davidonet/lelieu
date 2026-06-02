@@ -63,7 +63,7 @@ export const spaces: Space[] = [
 	},
 	{
 		slug: 'massage',
-		name: 'Le parloir massage',
+		name: 'L\'espace massage',
 		tagline: 'Se poser, se laisser toucher.',
 		description:
 			"Une pièce calme tenue par Espace Agapé : massage sensible, lent, adapté à chaque corps. Sur rendez-vous, dans une formule où l'argent n'est pas une limite.",
