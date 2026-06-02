@@ -62,15 +62,6 @@ export const spaces: Space[] = [
 		color: 'red'
 	},
 	{
-		slug: 'studio',
-		name: 'Le studio son',
-		tagline: 'Répéter, capter, faire sonner.',
-		description:
-			"Une salle acoustiquement traitée pour répéter en groupe et capter des démos courtes. Le local est trouvé, le matériel s'assemble — on garde la page à jour.",
-		color: 'blue',
-		comingSoon: true
-	},
-	{
 		slug: 'massage',
 		name: 'Le parloir massage',
 		tagline: 'Se poser, se laisser toucher.',
@@ -85,5 +76,14 @@ export const spaces: Space[] = [
 		description:
 			"Une cuisine entièrement équipée, ouverte aux usager·ère·s du LIEU. On y mange entre deux ateliers, on y organise des repas partagés, on y range ce qu'on a fait pousser.",
 		color: 'green'
+	},
+	{
+		slug: 'studio',
+		name: 'Le studio son',
+		tagline: 'Répéter, capter, faire sonner.',
+		description:
+			"Une salle acoustiquement traitée pour répéter en groupe et capter des démos courtes. Le local est trouvé, le matériel s'assemble — on garde la page à jour.",
+		color: 'blue',
+		comingSoon: true
 	}
 ];

@@ -3,7 +3,7 @@ title: Le futur studio son
 slug: studio
 color: blue
 comingSoon: true
-eyebrow: Espace 04 — Sonner (en projet)
+eyebrow: Espace 06 — Sonner (en projet)
 intro: Un studio acoustiquement traité pour répéter en groupe et capter des démos. En construction — on partage ici l'intention, les choix, et les étapes. La première séance arrive bientôt.
 features:
   - Salle traitée acoustiquement (panneaux absorbants + diffuseurs)

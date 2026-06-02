@@ -55,9 +55,9 @@
 					<li>01 — Une micro-galerie</li>
 					<li>02 — Un atelier d'art</li>
 					<li>03 — Un fablab</li>
-					<li>04 — Un futur studio son</li>
-					<li>05 — Un parloir massage</li>
-					<li>06 — Une cuisine partagée</li>
+					<li>04 — Un parloir massage</li>
+					<li>05 — Une cuisine partagée</li>
+					<li>06 — Un futur studio son</li>
 				</ul>
 				<div class="mt-6 flex flex-wrap gap-3">
 					<BrutButton href="#espaces" variant="accent">Voir les espaces</BrutButton>

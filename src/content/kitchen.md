@@ -2,7 +2,7 @@
 title: La cuisine partagée
 slug: kitchen
 color: green
-eyebrow: Espace 06 — Manger
+eyebrow: Espace 05 — Manger
 intro: Une cuisine entièrement équipée, ouverte à toutes les personnes qui font vivre le LIEU. On y prépare un café entre deux ateliers, un repas partagé pour finir une journée d'accrochage, un bocal de conserve à emporter chez soi.
 features:
   - Plaques de cuisson induction & four électrique

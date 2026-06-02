@@ -2,7 +2,7 @@
 title: Le parloir massage
 slug: massage
 color: teal
-eyebrow: Espace 05 — Toucher
+eyebrow: Espace 04 — Toucher
 intro: Une petite pièce calme, à part, pensée pour recevoir un massage. Le parloir accueille la pratique d'Espace Agapé — un massage sensible, lent, adapté à chaque corps qui s'y présente.
 partner:
   name: Espace Agapé
