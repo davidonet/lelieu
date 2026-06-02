@@ -26,7 +26,7 @@ export const colorText: Record<BrutColor, string> = {
 };
 
 export type Space = {
-	slug: 'galerie' | 'atelier' | 'fablab' | 'studio';
+	slug: 'galerie' | 'atelier' | 'fablab' | 'studio' | 'massage';
 	name: string;
 	tagline: string;
 	color: BrutColor;
@@ -58,5 +58,11 @@ export const spaces: Space[] = [
 		tagline: 'Répéter, capter, faire sonner.',
 		color: 'blue',
 		comingSoon: true
+	},
+	{
+		slug: 'massage',
+		name: 'Le parloir massage',
+		tagline: 'Se poser, se laisser toucher.',
+		color: 'teal'
 	}
 ];
