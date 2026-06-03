@@ -40,7 +40,7 @@
         href="mailto:bonjour@le-li.eu"
         class="inline-block brut-border bg-brut-yellow text-brut-ink px-4 py-2 font-mono text-xs uppercase tracking-widest brut-press"
       >
-        bonjour@le-li.eu
+        NOUS DIRE : BONJOUR !
       </a>
     </div>
   </div>

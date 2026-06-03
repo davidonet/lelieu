@@ -1,26 +1,34 @@
 <script lang="ts">
-	import type { Snippet } from 'svelte';
-	import { cn, colorBg, colorText, type BrutColor } from '$lib/utils';
+  import { cn, colorBg, colorText, type BrutColor } from "$lib/utils"
+  import type { Snippet } from "svelte"
 
-	type Props = {
-		color?: BrutColor | 'paper';
-		rotate?: boolean;
-		class?: string;
-		children: Snippet;
-	};
+  type Props = {
+    color?: BrutColor | "paper"
+    rotate?: boolean
+    class?: string
+    children: Snippet
+  }
 
-	let { color = 'paper', rotate = false, class: klass = '', children }: Props = $props();
+  let {
+    color = "paper",
+    rotate = false,
+    class: klass = "",
+    children,
+  }: Props = $props()
 
-	const bg = color === 'paper' ? 'bg-brut-paper text-brut-ink' : `${colorBg[color]} ${colorText[color]}`;
+  const bg =
+    color === "paper"
+      ? "bg-brut-paper text-brut-ink"
+      : `${colorBg[color]} ${colorText[color]}`
 </script>
 
 <span
-	class={cn(
-		'brut-tag inline-block whitespace-nowrap',
-		bg,
-		rotate ? '-rotate-1' : '',
-		klass
-	)}
+  class={cn(
+    "brut-tag inline-block whitespace-nowrap",
+    bg,
+    rotate ? "-rotate-6" : "",
+    klass,
+  )}
 >
-	{@render children()}
+  {@render children()}
 </span>
