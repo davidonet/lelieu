@@ -5,6 +5,8 @@
 	import BrutBadge from '$lib/components/BrutBadge.svelte';
 	import BrutButton from '$lib/components/BrutButton.svelte';
 	import PlaceholderImage from '$lib/components/PlaceholderImage.svelte';
+	import Seo from '$lib/components/Seo.svelte';
+	import { spaceSeo, canonical } from '$lib/seo';
 	import type { BrutColor } from '$lib/utils';
 
 	type Meta = {
@@ -15,11 +17,24 @@
 		features: string[];
 	};
 	const meta = metadata as Meta;
+	const seo = spaceSeo.galerie;
+
+	const jsonLd = {
+		'@context': 'https://schema.org',
+		'@type': 'ArtGallery',
+		name: meta.title,
+		description: seo.description,
+		url: canonical(seo.path)
+	};
 </script>
 
-<svelte:head>
-	<title>{meta.title} — LE LIEU</title>
-</svelte:head>
+<Seo
+	title={seo.title}
+	description={seo.description}
+	path={seo.path}
+	keywords={seo.keywords}
+	{jsonLd}
+/>
 
 <SpaceHero
 	eyebrow={meta.eyebrow}

@@ -9,18 +9,54 @@
     type NewsItem,
   } from "$lib/components/NewsCarousel.svelte"
   import SpacePanel from "$lib/components/SpacePanel.svelte"
+  import Seo from "$lib/components/Seo.svelte"
   import { spaces } from "$lib/utils"
+  import { homeSeo, SITE_NAME, SITE_URL, SITE_TAGLINE, spaceSeo, canonical } from "$lib/seo"
 
   type NewsMeta = { title: string; intro: string; items: NewsItem[] }
   const news = newsMeta as NewsMeta
 
   const title = (metadata as { title?: string })?.title ?? "LE LIEU"
   const tagline = (metadata as { tagline?: string })?.tagline ?? ""
+
+  const jsonLd = [
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: SITE_NAME,
+      alternateName: SITE_TAGLINE,
+      url: SITE_URL,
+      description: homeSeo.description,
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: SITE_NAME,
+      url: SITE_URL,
+      inLanguage: "fr-FR",
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: "Les espaces de LE LIEU",
+      itemListElement: spaces.map((space, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: space.name,
+        description: space.description,
+        url: canonical(`/${space.slug}`),
+      })),
+    },
+  ]
 </script>
 
-<svelte:head>
-  <title>LE LIEU — Lieu Imaginaire Expérimental Utopique</title>
-</svelte:head>
+<Seo
+  title={homeSeo.title}
+  description={homeSeo.description}
+  path={homeSeo.path}
+  keywords={homeSeo.keywords}
+  {jsonLd}
+/>
 
 <!-- HERO -->
 <section class="relative border-brut-ink overflow-hidden">

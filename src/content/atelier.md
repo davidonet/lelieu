@@ -8,22 +8,36 @@ features:
   - Grande table de travail (12 postes)
   - Coin peinture & dessin avec lavabo
   - Réserve de matériaux récupérés (papier, textile, bois)
-  - Coin lecture / bibliothèque de l'atelier
+
 ---
 
-## Un atelier, pas une école
+## La Petite Fabrique 
 
-Ici on ne vient pas pour apprendre une recette. On vient pour fabriquer — et c'est en fabriquant qu'on apprend. L'atelier d'art accueille des pratiques très différentes côte à côte : quelqu'un peint, à côté quelqu'un coud, plus loin quelqu'un essaie un nouveau noir.
+### Le mardi 2 ateliers : le matin de 10:00 à 12:00 et le soir de 18:15 à 20:15
 
-Les choses que l'on fait à plusieurs ne ressemblent à rien de ce qu'on aurait fait seul·e. C'est tout l'enjeu.
+À partir de 12 ans
+Vous désirez apprendre ou perfectionner votre pratique du dessin ou de la peinture. Un atelier convivial en petit groupe avec un accompagnement personnalisé quelque soit votre niveau par Delphine
 
-## Pratiques accueillies
+- Carte 10 cours : 150 €
+- Trimestre : 120€ (un cours par semaine)
+- Cours à l'unité : 20 €
+- Adhésion : 5 €
 
-- **Dessin & peinture** — chevalets, gouache, aquarelle, encres.
-- **Volume & terre** — modelage, moulage simple, céramique basse température.
-- **Papier & livre** — pliage, reliure légère, impression manuelle.
-- **Textile** — broderie, teinture végétale, couture à la main.
+Des stages sont proposés tout au long de l'année.
 
-## Comment ça marche
+## Delphine Dupuy
+Décoratrice plasticienne diplomée de l'École Supérieure d'Arts et Technique de Paris, elle a travaillé pour le cinéma et le théatre. Art-thérapeute, diplomée de la faculté de médecine de Montpellier, elle intervient auprès de personnes agées et d'enfants en difficulté
 
-L'atelier est ouvert sur des créneaux fixes. On vient avec son projet, ou sans. Du matériel de base est à disposition ; pour les matériaux précieux, chacun·e apporte. Une petite participation libre permet d'entretenir l'espace.
+Renseignements : 0682215810
+
+## Des créneaux disponibles
+
+Que ce soit une journée par semaine, 2 heures un soir ou pour un week end, l'atelier peut être mis à disposition pour :
+
+- 2 heures par semaine : 20€ par mois
+
+- 1 journée par semaine : 50€ par mois
+
+- 1 week end : 100€
+
+  
