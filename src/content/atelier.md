@@ -13,7 +13,10 @@ features:
 
 ## La Petite Fabrique 
 
-### Le mardi 2 ateliers : le matin de 10:00 à 12:00 et le soir de 18:15 à 20:15
+### Le mardi, 2 ateliers :
+
+- le matin **10h00 - 12h00**  
+- le soir **18:15 - 20:15**
 
 À partir de 12 ans
 Vous désirez apprendre ou perfectionner votre pratique du dessin ou de la peinture. Un atelier convivial en petit groupe avec un accompagnement personnalisé quelque soit votre niveau par Delphine
@@ -25,7 +28,7 @@ Vous désirez apprendre ou perfectionner votre pratique du dessin ou de la peint
 
 Des stages sont proposés tout au long de l'année.
 
-## Delphine Dupuy
+### Delphine Dupuy
 Décoratrice plasticienne diplomée de l'École Supérieure d'Arts et Technique de Paris, elle a travaillé pour le cinéma et le théatre. Art-thérapeute, diplomée de la faculté de médecine de Montpellier, elle intervient auprès de personnes agées et d'enfants en difficulté
 
 Renseignements : 0682215810

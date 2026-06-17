@@ -14,7 +14,7 @@ features:
 
 Aucun lieu collectif ne tient sans un endroit où l'on mange. La cuisine partagée n'est ni un restaurant ni un local technique : c'est l'endroit chaud du LIEU. Là où les conversations se prolongent, où l'on planifie la suite, où l'on accueille un·e nouveau·elle venu·e avec un café.
 
-L'accès est réservé aux **usager·ère·s du LIEU** — artistes en exposition, membres de l'atelier d'art, utilisateur·ice·s du fablab, groupes du futur studio, praticien·ne·s du parloir massage. Une clé d'accès est remise au moment de la première session.
+L'accès est réservé aux **usager·ère·s du LIEU** — artistes en exposition, membres de l'atelier d'art, utilisateur·ice·s du fablab, groupes du futur studio, praticien·ne·s du parloir massage. 
 
 ## Comment ça marche
 

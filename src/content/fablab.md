@@ -32,17 +32,11 @@ equipment:
 
 Un fablab, ce n'est pas un magasin de machines : c'est un endroit où l'on apprend à les utiliser ensemble. La règle est simple — on apprend, on transmet, on documente. Une machine bien utilisée par dix personnes vaut mieux que dix machines mal utilisées chacune dans son coin.
 
-## Équipements
-
-Voir les fiches ci-dessous. Une initiation rapide est nécessaire avant la première utilisation autonome — c'est court, c'est gratuit, et ça évite les bobos.
-
 ## Ce qu'on y fait
 
-- Prototypes d'objets, de mobilier léger, d'éditions imprimées.
+- Prototypes d'objets, de maquettes, d'éditions imprimées.
 - Pièces de découpe laser pour la scénographie de la micro-galerie.
 - Tirages grand format pour l'atelier d'art, les expositions, les affiches.
 - Bidouilles électroniques : capteurs, petits sons, lumières.
 
-## Sécurité
 
-Le laser et le fer à souder ne sont pas méchants — mais ils ne pardonnent pas l'inattention. Lunettes, ventilation, présence d'un·e référent·e formé·e : c'est non négociable.
