@@ -69,12 +69,12 @@
 
   <aside class="space-y-6">
     <div class="grid gap-4">
+      <Photo src="/photos/atelier/view1.avif" alt="Au travail" ratio="wide" />
       <Photo
-        src="/photos/atelier/table.avif"
+        src="/photos/atelier/view2.avif"
         alt="Table de travail"
-        ratio="wide"
+        ratio="square"
       />
-      <Photo src="/photos/atelier/atwork.avif" alt="Au travail" ratio="tall" />
     </div>
 
     <BrutCard color="paper">
