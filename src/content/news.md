@@ -16,8 +16,4 @@ items:
     start: '2026-09-08'
     blurb: Les ateliers de dessin et peinture reprennent à la rentrée. Cours pour adultes les mardis 10.00-12.00 et 18.15-20.15, et pour enfants les lundis 17.45-19.15. Inscriptions ouvertes 06 82 21 58 10.
     href: /atelier
-
-
-
-  
 ---

@@ -11,6 +11,17 @@ features:
 
 ---
 
+## Des créneaux disponibles
+
+Que ce soit une journée par semaine, 2 heures un soir ou pour un week end, l'atelier peut être mis à disposition pour :
+
+- 2 heures par semaine : 50€ par mois
+
+- 1 journée par semaine : 100€ par mois
+
+- 1 week end : 100€
+
+
 ## La Petite Fabrique 
 
 ### Le mardi, 2 ateliers :
@@ -33,14 +44,6 @@ Décoratrice plasticienne diplomée de l'École Supérieure d'Arts et Technique 
 
 Renseignements : 0682215810
 
-## Des créneaux disponibles
 
-Que ce soit une journée par semaine, 2 heures un soir ou pour un week end, l'atelier peut être mis à disposition pour :
-
-- 2 heures par semaine : 20€ par mois
-
-- 1 journée par semaine : 50€ par mois
-
-- 1 week end : 100€
 
   
